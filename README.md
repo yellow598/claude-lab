@@ -1,6 +1,6 @@
-# Bianca Studio｜平面設計接案作品集
+# TEST Studio｜平面設計接案作品集
 
-Bianca（黃阿茹）的平面設計師個人接案網站，單頁式 Landing Page，展示品牌識別、包裝設計與社群視覺作品。
+TEST的平面設計師個人接案網站，單頁式 Landing Page，展示品牌識別、包裝設計與社群視覺作品。
 
 ## 網站功能
 
@@ -31,7 +31,7 @@ Bianca（黃阿茹）的平面設計師個人接案網站，單頁式 Landing Pa
 
 1. 下載或 clone 這個專案
    ```bash
-   git clone https://github.com/yellow598/claude-lab.git
+   git clone XXXX
    ```
 2. 進入資料夾，直接用瀏覽器（Chrome、Edge、Safari、Firefox）開啟 `index.html`
    - 雙擊 `index.html`，或
@@ -60,4 +60,4 @@ claude-lab/
 
 ---
 
-© 2026 Bianca Studio · 黃阿茹
+© 2026 TEST studio
